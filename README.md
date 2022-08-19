@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aleksandra</h1>
 <h3 align="center">A passionate adventurer and a newbie in QA</h3>
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif")
+     
 
 - 🔭 I’m currently taking a course on **QA Automation Python**
 
@@ -7,7 +9,7 @@
 
 - 📫 How to reach me **tssawa@gmail.com**
 
-- ⚡ Fun fact **I love learning.**
+- ⚡ Fun fact: **I love learning.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
