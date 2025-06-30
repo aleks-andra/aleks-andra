@@ -3,13 +3,13 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif")
      
 
-- 🔭 I’m currently taking a course on **FrontEnd Development**
+ 🔭 I've completed a course on **FrontEnd Development**
 
-- 🌱 I’m currently learning **JS; Backend (Node.js, Express), SQL/ORM, REST API, REACT, JWT; TypeScript**
+ 🌱 Tech Stack: **JS; Backend (Node.js, Express), SQL/ORM, REST API, REACT, JWT; TypeScript**
 
-- 📫 How to reach me **tssawa@gmail.com**
+ 📫 How to reach me **tssawa@gmail.com**
 
-- ⚡ Fun fact: **I love learning.**
+ ⚡ Fun fact: **I love learning.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
